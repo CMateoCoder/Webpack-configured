@@ -1,4 +1,3 @@
 import './style.css'
 import './index.html'
-
-console.log('Hello World');
+import './js/components'
